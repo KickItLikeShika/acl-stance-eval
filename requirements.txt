@@ -1,0 +1,5 @@
+numpy
+pandas
+pydantic
+torch
+transformers

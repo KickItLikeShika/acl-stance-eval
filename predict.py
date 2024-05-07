@@ -9,7 +9,6 @@ import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 
-from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModel
 
 

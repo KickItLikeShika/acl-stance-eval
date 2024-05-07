@@ -26,14 +26,7 @@ def print_usage():
     print("""
     ---------------------------
     Usage:
-    python StanceEval.py goldFile guessFile
-
-    goldFile: file containing gold standards;
-    guessFile: file containing your prediction.
-
-    These two files have the same format:
-    ID<Tab>Target<Tab>Tweet<Tab>Stance
-    Only stance labels may be different between them!
+    python predict.py File
     ---------------------------
     """)
 
